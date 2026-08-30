@@ -12,6 +12,7 @@ This lightweight Python project creates randomized RPG weapons, giving every dro
 - **Randomized damage and durability** based on each weapon type
 - **Rarity stat multipliers** that make valuable drops more powerful
 - **Individual magic chances** for every weapon
+- **JSON-powered data** so weapons and rarities can be edited without changing the Python code
 - **Simple terminal output** with a quick power and magic classification
 
 ## 🎲 Example
